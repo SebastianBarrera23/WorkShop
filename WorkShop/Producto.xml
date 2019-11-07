@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Supermercado>
+
+  <producto>
+    <NomProd></NomProd>
+    <idProducto></idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Leche</NomProd>
+    <idProducto>1</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Arroz</NomProd>
+    <idProducto>2</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Queso</NomProd>
+    <idProducto>3</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Pollo</NomProd>
+    <idProducto>4</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Gaseosa</NomProd>
+    <idProducto>5</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Jabón</NomProd>
+    <idProducto>6</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Frijol</NomProd>
+    <idProducto>7</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Crema dental</NomProd>
+    <idProducto>8</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Jamón</NomProd>
+    <idProducto>9</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Tequila</NomProd>
+    <idProducto>10</idProducto>
+  </producto>
+
+  <producto>
+    <NomProd>Kumis</NomProd>
+    <idProducto>11</idProducto>
+  </producto>
+</Supermercado>

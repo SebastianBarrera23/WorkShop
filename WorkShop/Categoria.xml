@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Supermercado>
+  
+  <categoria>
+    <NomCat></NomCat>
+    <idCategoria></idCategoria>
+  </categoria>
+
+  <categoria>
+    <NomCat>Lacteos</NomCat>
+    <idCategoria>1</idCategoria>
+  </categoria>
+
+  <categoria>
+    <NomCat>Granos</NomCat>
+    <idCategoria>2</idCategoria>
+  </categoria>
+
+  <categoria>
+    <NomCat>Carnes</NomCat>
+    <idCategoria>3</idCategoria>
+  </categoria>
+
+  <categoria>
+    <NomCat>Bebidas</NomCat>
+    <idCategoria>4</idCategoria>
+  </categoria>
+
+  <categoria>
+    <NomCat>Aseo</NomCat>
+    <idCategoria>5</idCategoria>
+  </categoria>
+
+</Supermercado>
